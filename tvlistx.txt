@@ -1,0 +1,127 @@
+﻿香港,#genre#
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+明珠台,http://r.jdshipin.com/ZQ4kN
+凤凰中文台,http://r.jdshipin.com/cCCzW
+凤凰卫视,http://8.210.88.135/smtv.php?id=phoenixtv_hd
+凤凰资讯台1,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://8.210.88.135/smtv.php?id=phoenixinfo_hd
+台视新闻台,http://8.210.88.135/smtv.php?id=ttvnews_twn
+卫视中文台StarMoviesChinese,http://8.210.88.135/smtv.php?id=weishichinese_twn
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+三立台湾SanliTaiwan,http://8.210.88.135/smtv.php?id=sanlitaiwan
+三立戏剧台,http://8.210.88.135/smtv.php?id=sanlixiju_twn
+三立综合SanliMetro,http://8.210.88.135/smtv.php?id=sanlizhonghe
+三立都会台,http://8.210.88.135/smtv.php?id=sanlidouhui
+
+东森戏剧ETTVDrama,http://8.210.88.135/smtv.php?id=ettvdrama
+东森新闻ETTVNews,http://8.210.88.135/smtv.php?id=ettvnews
+东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+东森洋片ETTVWestern,http://8.210.88.135/smtv.php?id=ettvwestern
+
+东森综合ETTVMetro,http://8.210.88.135/smtv.php?id=ettvzhonghe
+
+东森财经新闻ETTVBusiness,http://8.210.88.135/smtv.php?id=ettvcaijing_twn
+东森超视,http://8.210.88.135/smtv.php?id=ettvsuper
+
+中天新闻HD,http://8.210.88.135/smtv.php?id=ctinews
+中天综合CTIMetro,http://8.210.88.135/smtv.php?id=ctizhonghe
+中视HD,http://8.210.88.135/smtv.php?id=zhongshihd_twn
+中视新闻台,http://8.210.88.135/smtv.php?id=zhongshinews_twn
+澳门莲花,https://cntv.sbs/tv/lhws.php
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+亚洲美食,http://8.210.88.135/smtv.php?id=afc_twn
+鏡電視新聞台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
+
+体育台,#genre#
+纬来体育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
+纬来体育,https://pull-f5-spe.ixigua.com/yeslivetv.com/396e188d-2f7b-49fd-bd60-d5ed17692c22/index.m3u8?by=yeslivetv.com
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,https://vl.yeslivetv.com/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5,http://223.151.51.27:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+
+NBAzuqiu,#genre#
+足球线路-01,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline01
+足球线路-02,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline02
+足球线路-03,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline03
+足球线路-04,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline04
+足球线路-05,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline05
+足球线路-06,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline06
+NBA-01,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline01
+NBA-02,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline02
+NBA-03,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline03
+NBA-04,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline04
+NBA-05,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline05
+NBA-06,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline06
+NBA-07,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline07
+NBA-08,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline08
+NBA-09,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline09
+NBA-10,http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline10
+
+YouTube,#genre#
+三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DW NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+
+其他,#genre#
+动物星球,http://8.210.88.135/smtv.php?id=animalplanet_twn
+探索科学,http://8.210.88.135/smtv.php?id=discoverysc_twn
+探索频道,http://8.210.88.135/smtv.php?id=ba86fcd935
+探索频道,http://8.210.88.135/smtv.php?id=discoveryhd_twn
+探索,http://8.210.88.135/smtv.php?id=discoverych_twn
+探索亚洲,http://8.210.88.135/smtv.php?id=discoverytwn_twn
+国家地理野生,http://8.210.88.135/smtv.php?id=natgeowild_twn
+国家地理,http://8.210.88.135/smtv.php?id=natgeohd_twn
+半岛新闻「英文」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
+半岛新闻「英文」,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
+半岛新闻「英文」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+亚洲旅游TLCAsia,http://8.210.88.135/smtv.php?id=tlc_twn
