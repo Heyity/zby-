@@ -4,7 +4,7 @@
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://38.207.160.104:11012/live.php?date=231119&id=pearl
 明珠台,http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-TVB S新闻,https://i.125011.xyz/sat.php?ip=&id=tv551
+TVBS新闻,https://i.125011.xyz/sat.php?ip=&id=tv551
 TVBS新闻,http://38.207.160.104:11012/live.php?date=231119&id=tvbs-news
 凤凰中文台,http://r.jdshipin.com/cCCzW
 凤凰卫视资讯台,http://8.210.88.135/smtv.php?id=phoenixtv_hd
@@ -20,17 +20,12 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 三立戏剧台,http://8.210.88.135/smtv.php?id=sanlixiju_twn
 三立综合SanliMetro,http://8.210.88.135/smtv.php?id=sanlizhonghe
 三立都会台,http://8.210.88.135/smtv.php?id=sanlidouhui
-
-东森戏剧ETTVDrama,http://8.210.88.135/smtv.php?id=ettvdrama
 东森新闻ETTVNews,http://8.210.88.135/smtv.php?id=ettvnews
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 东森洋片ETTVWestern,http://8.210.88.135/smtv.php?id=ettvwestern
-
 东森综合ETTVMetro,http://8.210.88.135/smtv.php?id=ettvzhonghe
-
 东森财经新闻ETTVBusiness,http://8.210.88.135/smtv.php?id=ettvcaijing_twn
 东森超视,http://8.210.88.135/smtv.php?id=ettvsuper
-
 中天新闻HD,http://8.210.88.135/smtv.php?id=ctinews
 中天综合CTIMetro,http://8.210.88.135/smtv.php?id=ctizhonghe
 中视HD,http://8.210.88.135/smtv.php?id=zhongshihd_twn
@@ -40,6 +35,9 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 亚洲美食,http://8.210.88.135/smtv.php?id=afc_twn
 鏡電視新聞台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
+
+电影,#genre#
+美亚电影,https://fake-stream.livednow.com/hkdvb/201?token=1d1758ebd294647baa3f3922c0ad16b7
 
 体育台,#genre#
 纬来体育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
