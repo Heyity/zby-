@@ -38,6 +38,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 
 电影,#genre#
 美亚电影,https://fake-stream.livednow.com/hkdvb/201?token=1d1758ebd294647baa3f3922c0ad16b7
+好莱坞电影 中字,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
 体育台,#genre#
 纬来体育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
