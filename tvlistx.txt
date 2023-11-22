@@ -1,4 +1,4 @@
-港澳台#genre#
+港澳台,#genre#
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -22,7 +22,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 三立都会台,http://8.210.88.135/smtv.php?id=sanlidouhui
 东森新闻ETTVNews,http://8.210.88.135/smtv.php?id=ettvnews
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-
 东森综合ETTVMetro,http://8.210.88.135/smtv.php?id=ettvzhonghe
 东森财经新闻ETTVBusiness,http://8.210.88.135/smtv.php?id=ettvcaijing_twn
 东森超视,http://8.210.88.135/smtv.php?id=ettvsuper
