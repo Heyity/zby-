@@ -1,0 +1,110 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 channel-id="samsung-ATBB3100001RH" tvg-id="ATBB3100001RH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBB3100001RH_20230913T030447SQUARE.png_20230913030447.png" tvg-chno="4001" group-title="Austria" , Crime Mix
+https://i.mjh.nz/SamsungTVPlus/ATBB3100001RH.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA1000004XC" tvg-id="ATBA1000004XC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000004XC_20230222T012142SQUARE.png_20230222012142.png" tvg-chno="4003" group-title="Austria" , Euronews Live
+https://i.mjh.nz/SamsungTVPlus/ATBA1000004XC.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ35000024Y" tvg-id="ATAJ35000024Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ35000024Y_20221109T010421SQUARE.png_20221109010422.png" tvg-chno="4004" group-title="Austria" , Komödien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ35000024Y.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBD800001VA" tvg-id="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" tvg-chno="4005" group-title="Austria" , CNN
+https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ0500427A" tvg-id="ATAJ0500427A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500427A_20230913T030438SQUARE.png_20230913030438.png" tvg-chno="4006" group-title="Austria" , Tierwelt
+https://i.mjh.nz/SamsungTVPlus/ATAJ0500427A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBD1500001X4" tvg-id="ATBD1500001X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20230510T043844SQUARE.png_20230510043845.png" tvg-chno="4009" group-title="Austria" , Lagerfeuer
+https://i.mjh.nz/SamsungTVPlus/ATBD1500001X4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAK3504517A" tvg-id="ATAK3504517A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504517A_20221026T004148SQUARE.png_20221026004148.png" tvg-chno="4110" group-title="Austria" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/ATAK3504517A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBD2600001QK" tvg-id="ATBD2600001QK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600001QK_20230809T053624SQUARE.png_20230809053625.png" tvg-chno="4112" group-title="Austria" , Hell's Kitchen
+https://i.mjh.nz/SamsungTVPlus/ATBD2600001QK.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAK3504505A" tvg-id="ATAK3504505A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20230809T053604SQUARE.png_20230809053605.png" tvg-chno="4114" group-title="Austria" , Pluto TV Sitcoms
+https://i.mjh.nz/SamsungTVPlus/ATAK3504505A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ32000027V" tvg-id="ATAJ32000027V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ32000027V_20221026T004149SQUARE.png_20221026004149.png" tvg-chno="4118" group-title="Austria" , FailArmy
+https://i.mjh.nz/SamsungTVPlus/ATAJ32000027V.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA33000270C" tvg-id="ATBA33000270C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20230426T015535SQUARE.png_20230426015536.png" tvg-chno="4120" group-title="Austria" , Craction TV
+https://i.mjh.nz/SamsungTVPlus/ATBA33000270C.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ3200003W3" tvg-id="ATAJ3200003W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ3200003W3_20230222T012140SQUARE.png_20230222012141.png" tvg-chno="4126" group-title="Austria" , The Pet Collective
+https://i.mjh.nz/SamsungTVPlus/ATAJ3200003W3.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAK3504515A" tvg-id="ATAK3504515A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504515A_20221026T004146SQUARE.png_20221026004146.png" tvg-chno="4128" group-title="Austria" , Comedy Central Made in Germany
+https://i.mjh.nz/SamsungTVPlus/ATAK3504515A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ7000105F" tvg-id="ATAJ7000105F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000105F_20220323T072705SQUARE.png_20220323072708.png" tvg-chno="4130" group-title="Austria" , MTV Teen Mom
+https://i.mjh.nz/SamsungTVPlus/ATAJ7000105F.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ700002OG" tvg-id="ATAJ700002OG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700002OG_20220323T072659SQUARE.png_20220323072702.png" tvg-chno="4132" group-title="Austria" , MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ700002OG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAK3504510A" tvg-id="ATAK3504510A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504510A_20221026T004144SQUARE.png_20221026004145.png" tvg-chno="4134" group-title="Austria" , Comedy Central Pluto TV
+https://i.mjh.nz/SamsungTVPlus/ATAK3504510A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA1000001YK" tvg-id="ATBA1000001YK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000001YK_20220323T072801SQUARE.png_20220323072804.png" tvg-chno="4136" group-title="Austria" , People Are Awesome
+https://i.mjh.nz/SamsungTVPlus/ATBA1000001YK.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA33000209C" tvg-id="ATBA33000209C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000209C_20230712T021105SQUARE.png_20230712021106.png" tvg-chno="4138" group-title="Austria" , Comedy & Shows
+https://i.mjh.nz/SamsungTVPlus/ATBA33000209C.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBC3000003Z7" tvg-id="ATBC3000003Z7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3000003Z7_20230809T053606SQUARE.png_20230809053607.png" tvg-chno="4139" group-title="Austria" , Stars in Gefahr
+https://i.mjh.nz/SamsungTVPlus/ATBC3000003Z7.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBC3900002PV" tvg-id="ATBC3900002PV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900002PV_20230809T053626SQUARE.png_20230809053627.png" tvg-chno="4141" group-title="Austria" , Naruto
+https://i.mjh.nz/SamsungTVPlus/ATBC3900002PV.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA1000010E4" tvg-id="ATBA1000010E4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000010E4_20230823T033027SQUARE.png_20230823033027.png" tvg-chno="4142" group-title="Austria" , Yu-Gi-Oh!
+https://i.mjh.nz/SamsungTVPlus/ATBA1000010E4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBD2500001A8" tvg-id="ATBD2500001A8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2500001A8_20230628T012810SQUARE.png_20230628012811.png" tvg-chno="4143" group-title="Austria" , Out TV
+https://i.mjh.nz/SamsungTVPlus/ATBD2500001A8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBD2600008HN" tvg-id="ATBD2600008HN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20230913T030443SQUARE.png_20230913030444.png" tvg-chno="4156" group-title="Austria" , Baywatch
+https://i.mjh.nz/SamsungTVPlus/ATBD2600008HN.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ70000741" tvg-id="ATAJ70000741" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ70000741_20230809T053602SQUARE.png_20230809053603.png" tvg-chno="4163" group-title="Austria" , Pluto TV Serie
+https://i.mjh.nz/SamsungTVPlus/ATAJ70000741.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA33000123Q" tvg-id="ATBA33000123Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000123Q_20230809T053609SQUARE.png_20230809053609.png" tvg-chno="4167" group-title="Austria" , Crime Serien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATBA33000123Q.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBC30000021Q" tvg-id="ATBC30000021Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC30000021Q_20230809T053610SQUARE.png_20230809053611.png" tvg-chno="4169" group-title="Austria" , Spannung & Emotionen
+https://i.mjh.nz/SamsungTVPlus/ATBC30000021Q.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA3300006WH" tvg-id="ATBA3300006WH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20230913T030501SQUARE.png_20230913030502.png" tvg-chno="4171" group-title="Austria" , Zee One
+https://i.mjh.nz/SamsungTVPlus/ATBA3300006WH.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA3300009MF" tvg-id="ATBA3300009MF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300009MF_20230712T021518SQUARE.png_20230712021518.png" tvg-chno="4205" group-title="Austria" , SPIEGEL TV Konflikte
+https://i.mjh.nz/SamsungTVPlus/ATBA3300009MF.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBC3900001W3" tvg-id="ATBC3900001W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20230614T005528SQUARE.png_20230614005529.png" tvg-chno="4207" group-title="Austria" , The Wicked Tuna Channel
+https://i.mjh.nz/SamsungTVPlus/ATBC3900001W3.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA3300008ZT" tvg-id="ATBA3300008ZT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300008ZT_20230712T021515SQUARE.png_20230712021516.png" tvg-chno="4208" group-title="Austria" , CURIOSITY Now
+https://i.mjh.nz/SamsungTVPlus/ATBA3300008ZT.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ70000866" tvg-id="ATAJ70000866" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ70000866_20220323T072826SQUARE.png_20220323072829.png" tvg-chno="4210" group-title="Austria" , Pluto TV Paranormal
+https://i.mjh.nz/SamsungTVPlus/ATAJ70000866.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ700009X4" tvg-id="ATAJ700009X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700009X4_20220323T072629SQUARE.png_20220323072631.png" tvg-chno="4216" group-title="Austria" , Ice Pilots
+https://i.mjh.nz/SamsungTVPlus/ATAJ700009X4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAK3504503A" tvg-id="ATAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20220914T041035SQUARE.png_20220914041035.png" tvg-chno="4222" group-title="Austria" , Pluto TV Science
+https://i.mjh.nz/SamsungTVPlus/ATAK3504503A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ0500456A" tvg-id="ATAJ0500456A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500456A_20221026T004219SQUARE.png_20221026004220.png" tvg-chno="4225" group-title="Austria" , Tempora
+https://i.mjh.nz/SamsungTVPlus/ATAJ0500456A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA1500028F9" tvg-id="ATBA1500028F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20220323T072451SQUARE.png_20220323072454.png" tvg-chno="4228" group-title="Austria" , Bergblick Free
+https://i.mjh.nz/SamsungTVPlus/ATBA1500028F9.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATAJ35000047P" tvg-id="ATAJ35000047P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ35000047P_20221214T045121SQUARE.png_20221214045122.png" tvg-chno="4229" group-title="Austria" , Dokumentarfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ35000047P.m3u8
+
+#EXTINF:-1 channel-id="samsung-ATBA22000050N" tvg-id="ATBA22000050N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34
