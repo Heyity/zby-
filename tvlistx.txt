@@ -39,8 +39,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 澳门莲花,https://cntv.sbs/tv/lhws.php
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-亚洲美食,http://8.210.88.135/smtv.php?id=afc_twn
-鏡電視新聞台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
 
 影音娱乐,#genre#
 CCTV-6 电影,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
@@ -167,9 +165,7 @@ Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX Soul,http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 FOX live,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX live,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
 Cnn-live,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-
 CBS, https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 NHK[中文字幕], https://bmcc.nhkworld.jp/live/index_1M.m3u8
 EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
