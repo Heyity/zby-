@@ -59,24 +59,6 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-NBAzuqiu,#genre#
-IPTV维护,http://129.226.149.79:5678/testvideo.php?id=testvideo2
-足球线路-01,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline01
-足球线路-02,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline02
-足球线路-03,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline03
-足球线路-04,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline04
-足球线路-05,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline05
-足球线路-06,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline06
-NBA-01,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline01
-NBA-02,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline02
-NBA-03,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline03
-NBA-04,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline04
-NBA-05,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline05
-NBA-06,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline06
-NBA-07,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline07
-NBA-08,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline08
-NBA-09,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline09
-NBA-10,http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline10
 
 YouTube,#genre#
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
