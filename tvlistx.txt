@@ -28,7 +28,7 @@ TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 
 娱乐台,#genre#
@@ -62,7 +62,33 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 
-YouTube,#genre#
+虎牙频道,#genre#
+周星驰,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+吴孟达,http://tx-screenshots.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv
+林正英,http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
+沈腾,http://tx-screenshots.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+甄子丹,http://tx-screenshots.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.flv
+成龙,http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv
+李连杰,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv
+周润发,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv
+刘德华,http://tx-screenshots.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
+洪金宝,http://tx-screenshots.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.flv黄渤,http://tx-screenshots.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv
+刘家辉,http://tx-screenshots.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.flv
+咏春系列,http://tx-screenshots.flv.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.flv
+黑帮系列,http://tx-screenshots.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.flv
+古墓系列,http://tx-screenshots.flv.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.flv
+赛车系列,http://tx-screenshots.flv.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.flv
+警匪系列,http://tx-screenshots.flv.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.flv
+中国功夫,http://tx-screenshots.flv.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.flv
+喜剧系列,http://tx-screenshots.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv
+动作大片,http://tx-screenshots.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.flv
+玄幻系列,http://tx-screenshots.flv.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.flv
+古装武侠,http://tx-screenshots.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.flv
+王晶导演,http://tx-screenshots.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv
+历年贺岁大片,http://tx-screenshots.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv
+金庸武侠系列,http://tx-screenshots.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+
+YT频道,#genre#
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
