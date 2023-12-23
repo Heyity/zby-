@@ -11,6 +11,7 @@ TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新闻（梯子）,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻（梯子）,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲（梯子）,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
