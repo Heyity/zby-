@@ -1,10 +1,9 @@
 港澳台,#genre#
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,https://ali.hlspull.yximgs.com:443/live/5a06465142974d61073c063fd6f025e1.flv
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://38.207.160.104:11012/live.php?date=231119&id=pearl
-明珠台,http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
