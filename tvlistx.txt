@@ -4,6 +4,16 @@
 翡翠台,https://ali.hlspull.yximgs.com:443/live/5a06465142974d61073c063fd6f025e1.flv
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
+TVBS,https://epg.pw/stream/48c1bb849cfa3885d40f833a7b014c1f17f6037209dcba94107576fe258955fe.m3u8
+TVBS[geo-blocked],https://epg.pw/stream/a200115ad1f70239a412a8514ea0d9c5a0183174c76f4d37f92cac34c60ca3ba.ctv
+TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
+TVBS Asia[geo-blocked],https://epg.pw/stream/7e50dcdb61d95e71d1ae2b6869fc17a77c859593eefb119ba0f65020610469c1.ctv
+TVBS Asia[geo-blocked],https://epg.pw/stream/1d86121e53ce22f83f01d05ae3fb2cb1f11af5b063a55e1b446fe4ac1bf400b2.ctv
+TVBS Asia[geo-blocked],https://epg.pw/stream/5ccb921672172396bb83a5904516a13622ce7330dab872925b396d4fd4f8b7c0.ctv
+TVBS Asia[geo-blocked],https://epg.pw/stream/7b1ca99c7fa3612a4c5c89bfeb9cdc96a7150f67abcce630c5c3a1156ba3b34c.ctv
+TVBS Asia[geo-blocked],https://epg.pw/stream/66bf179aaff5c0d3cc415c89f6289acdc2b57da03f3f7fef3274f458fb7ff236.ctv
+TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -46,6 +56,9 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 台視新聞,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
 台视新闻 hd,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
 台视新闻 hd,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
+東森新聞[geo-blocked],https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
+東森新聞[geo-blocked],https://epg.pw/stream/25684ac2210e084de3c382512e010d4dba82069bfb601e1f9e68f14c79a8849a.m3u8
+東森新聞[geo-blocked],https://epg.pw/stream/7810d974ec8147dd2d50a42dc40b08cba39e77f97f2c01faf51048a280a9d928.m3u8
 
 娱乐台,#genre#
 斗鱼4k,http://mmitv.top/test/douyu.php?id=9249162
@@ -75,6 +88,22 @@ Rakuten-tv,https://rakuten-tvshows-1-eu.rakuten.wurl.tv/3000.m3u8
 龍祥電影[geo-blocked],https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ct
 東森超視,https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 東森電影[geo-blocked],https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
+愛爾達影劇臺[geo-blocked],https://epg.pw/stream/b87b9bff275d9f8d2bcdb6ca42d4878235b55829737a4a3e0cd8a5d26caea247.m3u8
+愛爾達影劇臺[geo-blocked],https://epg.pw/stream/2bc65e1094e840e8d59511b2d73f07e403f40445cb7f00b10499e70ae26d54d8.m3u8
+愛爾達影劇臺[geo-blocked],https://epg.pw/stream/5093ac70e5aba32d7f4d3fb4acb8e7aabb0f4b42503ceb170752eb38c9512abe.m3u8
+成龙[geo-blocked],https://epg.pw/stream/64d9d1f55a1eec1fefc81dd5153d694bde9ecf5bf4300d1ca75e7d6cfb1c680c.ctv
+星卫hd电影台[geo-blocked],https://epg.pw/stream/139527e97b87c46e23c2c595895faea2b7e94782ce4b561aaab47bd1f2047de9.ctv
+東森洋片[geo-blocked],https://epg.pw/stream/4c7a4a507c06cf73baa0fc19509363072e9b48c0d4555bafaecdbd5072bfc878.ctv
+東森綜合[geo-blocked],https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+discovery channel,https://epg.pw/stream/d73eccd7fb47e486d8a82d3a7cc3d6238be015fdd36b6f623fbf3f969ca277a1.ctv
+discovery channel,https://epg.pw/stream/3e3e5206f630a929cda398c8615ee04ad940bc671aa6996ddcaed1afac656311.ctv
+discovery channel[geo-blocked],https://epg.pw/stream/830ef80534ed13d9e0a2776d773de223da53b7561f9e4e9cd9dd25bf4cb4242a.ctv
+discovery channel[geo-blocked],https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
+discovery channel,https://epg.pw/stream/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
+discovery channel,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
+discovery channel,https://epg.pw/stream/8691024f0b37817866deb4539e1dd3e6627395cd8ad9f9c0cae3063b6f390333.m3u8
+discovery channel[geo-blocked],https://epg.pw/stream/e82037869d99b8e31b16b9cd248b00b73cd91ca3f32748a93770e190858b0e81.ctv
+discovery hd world,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
 
 体育台,#genre#
 纬来体育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
@@ -92,6 +121,9 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 博斯運動2[geo-blocked],https://epg.pw/stream/54fb3049342d8c04c9a89779f3fb0537532f26f00563ae8541322c600cd47aa9.m3u8
 博斯運動2[geo-blocked],https://epg.pw/stream/f84a25f513ca8fc5487c09d47ee62280e23aae348905bc08ef5ce582861e4d6a.m3u8
+eleven sport 2[geo-blocked],https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+eleven sports 1 uhd pl⁴ᴷ[geo-blocked],https://epg.pw/stream/07f677ccff2c8752bff72a1b40f56547057f9294e906990bd4f2b990b50aafff.ctv
+eleven sports 1 uhd pl⁴ᴷ[geo-blocked],https://epg.pw/stream/70aae32f941ab8b702ee73c95adc058a1b87e065db280fbb667887f61ae1782c.m3u8
 
 YT频道,#genre#
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
