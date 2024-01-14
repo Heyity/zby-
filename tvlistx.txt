@@ -1,24 +1,5 @@
 港澳台,#genre#
-TVBS[geo-blocked],https://epg.pw/stream/a200115ad1f70239a412a8514ea0d9c5a0183174c76f4d37f92cac34c60ca3ba.ctv
-TVBS Asia[geo-blocked],https://epg.pw/stream/7e50dcdb61d95e71d1ae2b6869fc17a77c859593eefb119ba0f65020610469c1.ctv
-TVBS Asia[geo-blocked],https://epg.pw/stream/1d86121e53ce22f83f01d05ae3fb2cb1f11af5b063a55e1b446fe4ac1bf400b2.ctv
-TVBS Asia[geo-blocked],https://epg.pw/stream/5ccb921672172396bb83a5904516a13622ce7330dab872925b396d4fd4f8b7c0.ctv
-TVBS Asia[geo-blocked],https://epg.pw/stream/7b1ca99c7fa3612a4c5c89bfeb9cdc96a7150f67abcce630c5c3a1156ba3b34c.ctv
-TVBS Asia[geo-blocked],https://epg.pw/stream/66bf179aaff5c0d3cc415c89f6289acdc2b57da03f3f7fef3274f458fb7ff236.ctv
-TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
-TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻（梯子）,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新闻（梯子）,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻（梯子）,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲（梯子）,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲（梯子）,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+台視新聞,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
