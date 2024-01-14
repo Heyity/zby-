@@ -1,12 +1,5 @@
 港澳台,#genre#
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,https://ali.hlspull.yximgs.com:443/live/5a06465142974d61073c063fd6f025e1.flv
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://r.jdshipin.com/n90gt
-TVBS,https://epg.pw/stream/48c1bb849cfa3885d40f833a7b014c1f17f6037209dcba94107576fe258955fe.m3u8
 TVBS[geo-blocked],https://epg.pw/stream/a200115ad1f70239a412a8514ea0d9c5a0183174c76f4d37f92cac34c60ca3ba.ctv
-TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
 TVBS Asia[geo-blocked],https://epg.pw/stream/7e50dcdb61d95e71d1ae2b6869fc17a77c859593eefb119ba0f65020610469c1.ctv
 TVBS Asia[geo-blocked],https://epg.pw/stream/1d86121e53ce22f83f01d05ae3fb2cb1f11af5b063a55e1b446fe4ac1bf400b2.ctv
 TVBS Asia[geo-blocked],https://epg.pw/stream/5ccb921672172396bb83a5904516a13622ce7330dab872925b396d4fd4f8b7c0.ctv
