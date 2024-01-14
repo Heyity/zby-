@@ -23,7 +23,7 @@ Rakuten-tv,https://rakuten-tvshows-1-eu.rakuten.wurl.tv/3000.m3u8
 
 体育台,#genre#
 纬来体育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-纬来体育,https://pull-f5-spe.ixigua.com/yeslivetv.com/396e188d-2f7b-49fd-bd60-d5ed17692c22/index.m3u8?by=yeslivetv.com
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
