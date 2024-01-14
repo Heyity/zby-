@@ -37,6 +37,9 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 博斯運動2[geo-blocked],https://epg.pw/stream/54fb3049342d8c04c9a89779f3fb0537532f26f00563ae8541322c600cd47aa9.m3u8
 博斯運動2[geo-blocked],https://epg.pw/stream/f84a25f513ca8fc5487c09d47ee62280e23aae348905bc08ef5ce582861e4d6a.m3u8
+ESPN,https://feenyx.xyz:443/1rh3rJVyvj/SuyQMeT4qC/835
+欧美国际直播:
+https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html
 
 虎牙电影,#genre#
 【周星星】星爷经典不间断,http://dang.coms.ee/upload/huya.php?id=11342412
