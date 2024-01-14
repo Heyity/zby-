@@ -1,5 +1,6 @@
 港澳台,#genre#
 台視新聞,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
+中天亚洲台[1280x720][20240109],https://epg.pw/stream/ee79efb47f18a06eb7a23c6e00d8ff5a08359bb7846428002a9db78633841d58.ctv
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
