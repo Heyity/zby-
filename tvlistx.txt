@@ -79,15 +79,10 @@ KYTV 韩国音乐：http://live.kytv.co.kr:8080/hls/stream.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-
 CCTV-5 体育,http,//[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
-
 CCTV-5 体育,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
-
 CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
@@ -98,118 +93,123 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-博斯運動2[geo-blocked],https://epg.pw/stream/54fb3049342d8c04c9a89779f3fb0537532f26f00563ae8541322c600cd47aa9.m3u8
-博斯運動2[geo-blocked],https://epg.pw/stream/f84a25f513ca8fc5487c09d47ee62280e23aae348905bc08ef5ce582861e4d6a.m3u8
-ELTA体育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-ESPN,https://feenyx.xyz:443/1rh3rJVyvj/SuyQMeT4qC/835
-欧美国际直播,https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html
 
-虎牙电影,#genre#
-【周星星】星爷经典不间断,http://dang.coms.ee/upload/huya.php?id=11342412
-英叔护体 | 林正英搞笑僵尸系列,http://dang.coms.ee/upload/huya.php?id=11342421
-雀刀门 最好看的东北喜剧,http://dang.coms.ee/upload/huya.php?id=11352963
-【虎牙影院】沈腾经典片放映,http://dang.coms.ee/upload/huya.php?id=11601968
-天不生我李淳罡，剑道万古如长夜,http://dang.coms.ee/upload/huya.php?id=11336592
-成龙经典武打动作片,http://dang.coms.ee/upload/huya.php?id=11342386
-鬼吹灯虐我千百遍，我待鬼吹灯如初恋,http://dang.coms.ee/upload/huya.php?id=11352883
-鬼吹灯系列最好的一部,http://dang.coms.ee/upload/huya.php?id=11602075
-李茶的姑妈·姑妈美美美,http://dang.coms.ee/upload/huya.php?id=880261
-【王晶】港风导演代表,http://dang.coms.ee/upload/huya.php?id=11602058
-历年贺岁档 笑就完事儿了,http://dang.coms.ee/upload/huya.php?id=11601986
-杰森·斯坦森:郭达是你吗,http://dang.coms.ee/upload/huya.php?id=21059588
-周润发电影 小马哥归来 ,http://dang.coms.ee/upload/huya.php?id=11342387
-李连杰系列 武打高产王,http://dang.coms.ee/upload/huya.php?id=11342390
-【五福星】每天都要快乐哦,http://dang.coms.ee/upload/huya.php?id=11282233
-经典之作·金庸群侠篇电影,http://dang.coms.ee/upload/huya.php?id=11342427
-良心医疗剧 主打的就是一个真实,http://dang.coms.ee/upload/huya.php?id=11352890
-【警匪】不会演戏的警察不是好卧底,http://dang.coms.ee/upload/huya.php?id=11352886
-这些都是高智商的罪犯,http://dang.coms.ee/upload/huya.php?id=11352962
-星漢燦爛，幸甚至哉！吴磊赵露思疑商夫妇不要太甜,http://dang.coms.ee/upload/huya.php?id=11336591
-周星星粤语经典版~,http://dang.coms.ee/upload/huya.php?id=11336587
-搞笑恐怖类 弹幕护体,http://dang.coms.ee/upload/huya.php?id=11601960
-【黑帮大片】山鸡哥重现江湖 ,http://dang.coms.ee/upload/huya.php?id=11336719
-刘德华电影_经典系列,http://dang.coms.ee/upload/huya.php?id=11342424
-大刘著作 原著党的胜利！我哭了,http://dang.coms.ee/upload/huya.php?id=11352954
-经典港剧笑嘻嘻,http://dang.coms.ee/upload/huya.php?id=11352965
-高丽少女的新东方历险记,http://dang.coms.ee/upload/huya.php?id=21059586
-怪兽打架x异形世界：爽就完事了,http://dang.coms.ee/upload/huya.php?id=21059577
-简小熙的直播间,http://dang.coms.ee/upload/huya.php?id=11342399
-【许氏三杰】快来 就差你了,http://dang.coms.ee/upload/huya.php?id=11602033
-巨石强森系列:真肌肉就是爽,http://dang.coms.ee/upload/huya.php?id=21059581
-永远的经典女神,无法超越啊,http://dang.coms.ee/upload/huya.php?id=11352909
-千年永夜即将降临,http://dang.coms.ee/upload/huya.php?id=21059554
-不挤电影院也能笑着过春节！,http://dang.coms.ee/upload/huya.php?id=11352897
-《jiang夜》终将至，花开彼岸天,http://dang.coms.ee/upload/huya.php?id=11352885
-【喜剧专场】我们一起找乐子,http://dang.coms.ee/upload/huya.php?id=11602044
-黑帮斗争 黑与白的对峙，情与义的泯灭,http://dang.coms.ee/upload/huya.php?id=11342419
-Han国高分动作片 刺激过瘾,http://dang.coms.ee/upload/huya.php?id=11352884
-si神来了系列 好怕怕,http://dang.coms.ee/upload/huya.php?id=11352903
-快意江湖：金庸的武侠世界,http://dang.coms.ee/upload/huya.php?id=11342435
-飙车的老司机的直播间,http://dang.coms.ee/upload/huya.php?id=11352894
-玄幻剧场·体验另一种生活！,http://dang.coms.ee/upload/huya.php?id=11342414
-够劲，就是中国功夫,http://dang.coms.ee/upload/huya.php?id=11352941
-三观炸裂一家人,http://dang.coms.ee/upload/huya.php?id=21059580
-千面影帝梁家辉,http://dang.coms.ee/upload/huya.php?id=11342429
-港剧最佳拍档 | 许冠英合集,http://dang.coms.ee/upload/huya.php?id=11601972
-古墓系列·去冒险吧！,http://dang.coms.ee/upload/huya.php?id=11352913
-【十一推荐】动作要快，姿势要帅,http://dang.coms.ee/upload/huya.php?id=11602041
-那些年的香gang贺岁片,http://dang.coms.ee/upload/huya.php?id=11601971
-看完你也学不会系列~,http://dang.coms.ee/upload/huya.php?id=11352945
-搞笑喜剧：最佳拍档 开心鬼系列,http://dang.coms.ee/upload/huya.php?id=11342423
-【镖行天下】镖在人在,http://dang.coms.ee/upload/huya.php?id=11352969
-朋友，和赵盼儿一起跳支舞吗！？,http://dang.coms.ee/upload/huya.php?id=11336590
-校园热血电影，不比古惑仔差,http://dang.coms.ee/upload/huya.php?id=11352934
-只解沙场为国死，何须马革裹尸还,http://dang.coms.ee/upload/huya.php?id=11601977
-【女神系列】邱淑贞 王祖贤 张曼玉 ,http://dang.coms.ee/upload/huya.php?id=11336571
-枪战还是得看他！,http://dang.coms.ee/upload/huya.php?id=21059579
-真正的硬汉007，铁打的詹姆斯邦德！,http://dang.coms.ee/upload/huya.php?id=21059585
-大场面战争片:一枚核弹爆炸,http://dang.coms.ee/upload/huya.php?id=21059574
-疯狂の石头·厕所挖宝,http://dang.coms.ee/upload/huya.php?id=11352876
-玄幻专场·国产特效大制作,http://dang.coms.ee/upload/huya.php?id=11352973
-动作电影来啦,http://dang.coms.ee/upload/huya.php?id=11602077
-洪金宝·童年回忆杀,http://dang.coms.ee/upload/huya.php?id=11279251
-国产悬疑精选·智商在线,http://dang.coms.ee/upload/huya.php?id=11342395
-甄子丹 我要打十个,http://dang.coms.ee/upload/huya.php?id=11352935
-童年女神周海媚！她一笑我就恋爱了,http://dang.coms.ee/upload/huya.php?id=11279247
-牙缝多了根青菜的直播间,http://dang.coms.ee/upload/huya.php?id=11352877
-DC宇宙来啦，有你喜欢的英雄吗？,http://dang.coms.ee/upload/huya.php?id=11342428
-盗墓还得看经典的,http://dang.coms.ee/upload/huya.php?id=21059552
-法外狂徒张三李四,http://dang.coms.ee/upload/huya.php?id=11601965
-永远怀念“黄药师”曾江,http://dang.coms.ee/upload/huya.php?id=11601981
-刺激到不行的韩版犯罪片,http://dang.coms.ee/upload/huya.php?id=11352974
-情人节：港片教你追女仔,http://dang.coms.ee/upload/huya.php?id=11602043
-全球最烧脑悬疑片 哪部是你的最爱,http://dang.coms.ee/upload/huya.php?id=11352880
-爱上我的女总裁第22集,http://dang.coms.ee/upload/huya.php?id=11352887
-【百基争郎】性转版臻环传，16个男人争一个，我大受震撼！,http://dang.coms.ee/upload/huya.php?id=21059578
-橙光游戏改变 我从来没见过这么炸裂的演技！,http://dang.coms.ee/upload/huya.php?id=11602034
+IPV6·咪咕,#genre#
+咪咕直播4K-1「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+咪咕直播4K-2「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+咪咕直播-2「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
+咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
+咪咕直播-4「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+咪咕直播-5「IPV6」,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+咪咕直播-6「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+咪咕直播-7「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+咪咕直播-8「IPV6」,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+咪咕直播-9「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+咪咕直播-10「IPV6」,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+咪咕直播-11「IPV6」,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+咪咕直播-12「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+咪咕直播-13「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
+咪咕直播-14「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+咪咕直播-15「IPV6」,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+咪咕直播-16「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+咪咕直播-17「IPV6」,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+咪咕直播-18「IPV6」,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+咪咕直播-19「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+咪咕直播-20「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+咪咕直播-21「IPV6」,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+咪咕直播-22「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+咪咕直播-23「IPV6」,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+咪咕直播-24「IPV6」,http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
+咪咕直播-25「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
+咪咕直播-26「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
+咪咕直播-27「IPV6」,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
+咪咕直播-28「IPV6」,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+咪咕直播-29「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+咪咕直播-30「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+咪咕直播-31「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+咪咕直播-32「IPV6」,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
+咪咕直播-33「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
+咪咕直播-34「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
+咪咕直播-35「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
+咪咕直播-36「IPV6」,http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
+咪咕直播-37「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+咪咕直播-38「IPV6」,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+咪咕直播-39「IPV6」,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+咪咕直播-40「IPV6」,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+咪咕直播-41「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+咪咕直播-42「IPV6」,http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
+咪咕直播-43「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+咪咕直播-44「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
+咪咕直播-45「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+咪咕直播-46「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+咪咕直播-47「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+咪咕直播-48「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+咪咕直播-49「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+咪咕直播-50「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+咪咕直播-51「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+咪咕直播-52「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播-53「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播-54「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播-55「IPV6」,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕直播-56「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-虎牙TVB,#genre#
-看孙悟空唐三藏取西经,http://dang.coms.ee/upload/huya.php?id=23735126
-【封神榜】割肉还母剔骨还父,http://dang.coms.ee/upload/huya.php?id=23749096
-楚汉骄雄-我恨做皇后 但我做刘邦的皇后,http://dang.coms.ee/upload/huya.php?id=23740156
-张卫健版西游记-当蜘蛛精看上了齐天大圣,http://dang.coms.ee/upload/huya.php?id=23728660
-【鹿鼎记】小春版韦小宝 是你心中最经典的版本吗？,http://dang.coms.ee/upload/huya.php?id=23865080
-【刑事侦缉档案】最棒的警匪片系列,http://dang.coms.ee/upload/huya.php?id=23734169
-【法证先锋】侦查片天花板 超经典,http://dang.coms.ee/upload/huya.php?id=23863804
-【天龙八部】最佳版本天龙·97版黄日华超神作,http://dang.coms.ee/upload/huya.php?id=23903123
-【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP,http://dang.coms.ee/upload/huya.php?id=23864973
-【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！,http://dang.coms.ee/upload/huya.php?id=23865142
-【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演,http://dang.coms.ee/upload/huya.php?id=23903130
-【陀枪师姐】永远的陈小生 无法超越的经典,http://dang.coms.ee/upload/huya.php?id=23860039
-【倚天屠龙记】最爱的赵敏永远是黎姿,http://dang.coms.ee/upload/huya.php?id=23734246
-【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演,http://dang.coms.ee/upload/huya.php?id=23865171
-【鉴证实录】天网恢恢，疏而不漏,http://dang.coms.ee/upload/huya.php?id=23903183
-【使徒行者】正邪相斗 情义两难,http://dang.coms.ee/upload/huya.php?id=23734256
-扫黄先锋·欧阳震华在不能不看,http://dang.coms.ee/upload/huya.php?id=23903196
-【妙手仁心】最出色的都市剧之一,http://dang.coms.ee/upload/huya.php?id=23829543
-【梁朝伟版鹿鼎记】梁朝伟和刘德华还能拒绝吗,http://dang.coms.ee/upload/huya.php?id=23734183
-【创世纪】神预言，剧里的金融地产现在都成真了！,http://dang.coms.ee/upload/huya.php?id=23749083
-【大时代】史上主角疯子最多的片·荡气回肠大时代！,http://dang.coms.ee/upload/huya.php?id=23865161
-【大唐双龙传】爱你恨你，一生一世,http://dang.coms.ee/upload/huya.php?id=23728674
-金枝欲孽-宫斗剧才一开山既已是巅峰！,http://dang.coms.ee/upload/huya.php?id=23865036
-【笑看风云】再无包文龙，再无林贞烈,http://dang.coms.ee/upload/huya.php?id=23865058
-野蛮亲家血腥对线！,http://dang.coms.ee/upload/huya.php?id=23863796
-射雕之九阴真经-姜大卫 张智霖,http://dang.coms.ee/upload/huya.php?id=23824164
+咪咕「移动」,#genre#
+咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕直播-1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕直播-2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+咪咕直播-3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕直播-4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+咪咕直播-5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+咪咕直播-6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+咪咕直播-7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+咪咕直播-8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕直播-9,http://gslbserv.itv.cmvideo.cn:80/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
+咪咕直播-10,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+咪咕直播-11,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+咪咕直播-12,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+咪咕直播-13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+咪咕直播-14,http://gslbserv.itv.cmvideo.cn:80/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
+咪咕直播-15,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+咪咕直播-16,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+咪咕直播-17,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+咪咕直播-18,http://gslbserv.itv.cmvideo.cn:80/3000000010000004464/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004464&livemode=1&stbId=3
+咪咕直播-19,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+咪咕直播-20,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+咪咕直播-21,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+咪咕直播-22,http://gslbserv.itv.cmvideo.cn:80/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
+咪咕直播-23,http://gslbserv.itv.cmvideo.cn:80/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
+咪咕直播-24,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+咪咕直播-25,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+咪咕直播-26,http://gslbserv.itv.cmvideo.cn:80/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
+咪咕直播-27,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+咪咕直播-28,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+咪咕直播-29,http://gslbserv.itv.cmvideo.cn:80/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
+咪咕直播-30,http://gslbserv.itv.cmvideo.cn:80/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
+咪咕直播-31,http://gslbserv.itv.cmvideo.cn:80/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
+咪咕直播-32,http://gslbserv.itv.cmvideo.cn:80/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
+咪咕直播-33,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+咪咕直播-34,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+咪咕直播-35,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+咪咕直播-36,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+咪咕直播-37,http://gslbserv.itv.cmvideo.cn:80/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
+咪咕直播-38,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+咪咕直播-39,http://gslbserv.itv.cmvideo.cn:80/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
+咪咕直播-40,http://gslbserv.itv.cmvideo.cn:80/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
+咪咕直播-41,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+咪咕直播-42,http://gslbserv.itv.cmvideo.cn:80/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
+咪咕直播-43,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+咪咕直播-44,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+咪咕直播-45,http://gslbserv.itv.cmvideo.cn:80/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
+咪咕直播-46,http://gslbserv.itv.cmvideo.cn:80/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
+咪咕直播-47,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+咪咕直播-48,http://gslbserv.itv.cmvideo.cn:80/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
+咪咕直播-49,http://gslbserv.itv.cmvideo.cn:80/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
+咪咕直播-50,http://gslbserv.itv.cmvideo.cn:80/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=3
+咪咕直播-51,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+咪咕直播-52,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+咪咕直播-53,http://gslbserv.itv.cmvideo.cn:80/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 
 YT频道,#genre#
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
