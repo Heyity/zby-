@@ -1,41 +1,5 @@
-cat,#genre#
+cctv,#genre#
 CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964843858_1182658871/ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1528000783_-231655737/ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3964515718_-284491133/ott.mobaibox.com/PLTV/3/224/3221227431/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec14_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw3963387606_1140881910/ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8?icpid=3&RTS=1674379783&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3963797831_838224880/ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8?icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1925313110_1051745570/ott.mobaibox.com/PLTV/3/224/3221226316/index.m3u8?icpid=3&RTS=1674386335&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3963514148_-902666800/ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8?icpid=3&RTS=1674379783&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb05_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw3964003222_765154567/ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8?icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1527830964_-1694427992/ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1528379826_-632121028/ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-1 综合,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3965349198_413260074/ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb10_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3965487430_-634044824/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8?icpid=3&RTS=1674379785&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2051638270_1451102728/ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8?icpid=3&RTS=1674386462&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3969211375_-1190792372/ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec12_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw3968988866_1321620950/ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8?icpid=3&RTS=1674379789&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3967888183_-1304016457/ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8?icpid=3&RTS=1674379788&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1529956563_-1423888702/ott.mobaibox.com/PLTV/3/224/3221227481/index.m3u8?icpid=3&RTS=1674385940&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3968551186_-1630861342/ott.mobaibox.com/PLTV/3/224/3221228237/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb08_80&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3968745104_1595752942/ott.mobaibox.com/PLTV/3/224/3221227650/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0c_80&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1926180487_-439218358/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1674386336&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw3969776637_-195437199/ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8?icpid=3&RTS=1674379790&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-3 综艺,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw3969425161_-1948513661/ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec10_80&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3969604331_1846801707/ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8?icpid=3&RTS=1674379790&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec21_80&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 港澳台,#genre#
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -169,47 +133,6 @@ douyu44,http://epg.112114.xyz/douyu/323876
 粤语电影2,http://epg.112114.xyz/douyu/6566671
 粤语电影3,http://epg.112114.xyz/douyu/1226741
 贝爷影厅,http://epg.112114.xyz/douyu/252802
-
-YT频道,#genre#
-三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-DW NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 外语台,#genre#
 半岛新闻「英文」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
