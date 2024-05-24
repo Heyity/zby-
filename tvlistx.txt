@@ -30,9 +30,6 @@ Rakuten-tv,https://rakuten-tvshows-1-eu.rakuten.wurl.tv/3000.m3u8
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
-音乐台,#genre#
-CCTV15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-
 体育台,#genre#
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
@@ -104,7 +101,6 @@ IPV6·咪咕,#genre#
 半岛新闻「英文」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -140,4 +136,9 @@ ABCnews-720P,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6
 Discovery Channel [可选英语、俄语],http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 Discovery Asia 中字,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 Discovery Channel 中字,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-
+其他,#genre#
+动物星球,http://168.119.255.170/400/video.m3u8?token=M4f082ab4c
+LoVeNaTuRe,http://168.119.255.170/446/video.m3u8?token=M4f082ab4c
+地理野生动物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
+国家地理,http://168.119.255.170/402/video.m3u8?token=M4f082ab4c
+动物星球,http://168.119.255.170/400/video.m3u8?token=M4f082ab4c
