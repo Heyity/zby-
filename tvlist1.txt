@@ -29,6 +29,7 @@ TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻24小时,https://m.youtube.com/watch?v=oIgbl7t0S_w
 CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
